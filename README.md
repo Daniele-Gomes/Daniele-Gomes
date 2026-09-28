@@ -6,8 +6,6 @@
 *` Desenvolvimento Web | Banco de Dados | Cibersegurança`*
 
 Me chamo Daniele Santos Gomes, Atualmente, atuo como estagiária em Tecnologia Educacional e EaD no Ministério da Justiça e Segurança Pública (MJSP). Tenho interesse em continuar evoluindo na área de Tecnologia da Informação, especialmente em Desenvolvimento Web, Full Stack, Suporte Técnico e Automação.
-
-<br>
  
 ### ⚙️ Linguagens & tecnologias 
 
