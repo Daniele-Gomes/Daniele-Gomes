@@ -7,6 +7,8 @@
 
 Me chamo Daniele Santos Gomes, Atualmente, atuo como estagiária em Tecnologia Educacional e EaD no Ministério da Justiça e Segurança Pública (MJSP). Tenho interesse em continuar evoluindo na área de Tecnologia da Informação, especialmente em Desenvolvimento Web, Full Stack, Suporte Técnico e Automação.
 
+<br>
+ 
 ### ⚙️ Linguagens & tecnologias 
 
 <img 
@@ -65,8 +67,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
     style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ### 📊 Estatísticas 
 
