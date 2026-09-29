@@ -1,5 +1,4 @@
-# 👩🏽‍💻 Daniele Santos
-
+# 👩🏽‍💻 Daniele Gomes
 **`🎓 Estudante de Engenharia da Computação`**
 
 
